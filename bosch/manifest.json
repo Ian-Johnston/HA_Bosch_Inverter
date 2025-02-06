@@ -1,0 +1,11 @@
+{
+  "domain": "bosch",
+  "name": "Bosch BPT-S4 Inverter",
+  "documentation": "https://github.com/Ian-Johnston/HA_Bosch_Inverter",
+  "codeowners": ["@Ian-Johnston"],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "local_polling",
+  "dependencies": [],
+  "config_flow": true
+}
